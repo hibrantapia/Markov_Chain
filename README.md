@@ -1,8 +1,8 @@
 ## Markov_Chain
 
-<p align="center"> <img src = "/Graphs/1.png" width = 400> </p>
-<p align="center"> <img src = "/Graphs/2.png" width = 400> </p>
-<p align="center"> <img src = "/Graphs/3.png" width = 400> </p>
+<p align="center"> <img src = "/Graphs/1.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/2.png" width = 600> </p>
+<p align="center"> <img src = "/Graphs/3.png" width = 600> </p>
 <p align="center"> <img src = "/Graphs/4.png" width = 600> </p>
 <p align="center"> <img src = "/Graphs/5.png" width = 600> </p>
 <p align="center"> <img src = "/Graphs/6.png" width = 600> </p>
