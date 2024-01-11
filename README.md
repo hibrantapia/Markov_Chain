@@ -1,4 +1,4 @@
-## Markov_Chain
+## Markov Chain
 
 <p align="center"> <img src = "/Graphs/1.png" width = 750> </p>
 <p align="center"> <img src = "/Graphs/2.png" width = 500> </p>
