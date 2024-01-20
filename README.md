@@ -16,6 +16,7 @@
 1. In this simple GitHub Repository, I uploaded 1 Jupyter Notebook file (.ipynb), containing the source code and full explanation of this beautiful graphs.
 2. You don't need anything special to run the program.
 
+
 #### Check out my social stuff for more:
 
 
@@ -32,3 +33,8 @@
             <td><a href="https://medium.com/@hibrantapia">
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
             </a></td>
+        </tr>
+    </tbody>
+</table>
+
+Make sure to [contact me](https://github.com/hibrantapia) if you have any questions.
